@@ -1,81 +1,33 @@
-[00:07:05] [Server thread/INFO]: <uttn> murabito box
-[00:07:07] [Server thread/INFO]: <uttn> arede
-[00:07:11] [Server thread/INFO]: <uttn> akari
-[00:07:15] [Server thread/INFO]: <uttn> daijobu
-[00:07:16] [Server thread/INFO]: <uttn> nano?
-[00:07:47] [Server thread/INFO]: <LarisaZip> ok
-[00:07:50] [Server thread/INFO]: <uttn> sono 2tsu dake
-[00:10:31] [Server thread/INFO]: <LarisaZip> ok
-[00:10:36] [Server thread/INFO]: <uttn> aza
-[00:10:43] [Server thread/INFO]: <uttn> oita no*?
-[00:12:08] [Server thread/INFO]: <LarisaZip> iie
-[00:21:52] [Server thread/INFO]: <uttn> tetsu
-[00:21:54] [Server thread/INFO]: <uttn> hotte
-[00:21:55] [Server thread/INFO]: <uttn> kuru
-[00:55:21] [Server thread/INFO]: <LarisaZip> chotto ochiru
-[00:55:27] [Server thread/INFO]: <uttn> ok
-[00:55:34] [Server thread/INFO]: LarisaZip lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:55:34] [Server thread/INFO]: LarisaZip left the game
-[01:26:38] [User Authenticator #4/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
-[01:26:41] [Server thread/INFO]: LarisaZip[/25.41.111.241:50596] logged in with entity id 354804 at (245.43943910573847, 6.0, -131.7005352991281)
-[01:26:41] [Server thread/INFO]: LarisaZip joined the game
-[01:27:12] [Server thread/INFO]: <uttn> golem kakunin shita
-[01:27:14] [Server thread/INFO]: <uttn> year
-[01:27:21] [Server thread/INFO]: <uttn> yeah
-[01:28:02] [Server thread/INFO]: <LarisaZip> yokatta ne
-[01:33:35] [Server thread/INFO]: <uttn> sleep
-[01:35:06] [Server thread/INFO]: LarisaZip has just earned the achievement [Bake Bread]
-[01:35:12] [Server thread/INFO]: <uttn> www
-[01:36:28] [Server thread/INFO]: <uttn> beet douyatte kaisyu?
-[01:36:40] [Server thread/INFO]: <uttn> kowasuno?
-[01:36:46] [Server thread/INFO]: <uttn> mi wo
-[01:37:10] [Server thread/INFO]: <LarisaZip> hai
-[01:37:42] [Server thread/INFO]: <uttn> kakao datta...
-[01:37:54] [Server thread/INFO]: <LarisaZip> soudane
-[01:38:04] [Server thread/INFO]: <uttn> yeah
-[01:39:35] [Server thread/INFO]: <uttn> suika
-[01:39:38] [Server thread/INFO]: <uttn> ha
-[01:39:40] [Server thread/INFO]: <uttn> ono
-[01:39:45] [Server thread/INFO]: <uttn> kaisyu?
-[01:39:59] [Server thread/INFO]: <LarisaZip> hai
-[01:40:37] [Server thread/INFO]: <uttn> ono nakute kawaran kune?
-[01:41:59] [Server thread/INFO]: <LarisaZip> ?
-[01:43:43] [Server thread/INFO]: <uttn> ono nashi demo kowasu hayasa onaji datta
-[01:44:13] [Server thread/INFO]: <uttn> sleep
-[01:55:28] [Server thread/INFO]: <uttn> sleep
-[01:58:27] [Server thread/INFO]: LarisaZip has just earned the achievement [DIAMONDS!]
-[02:06:15] [Server thread/INFO]: <uttn> yoru
-[02:38:55] [Server thread/INFO]: <uttn> yoru
-[02:46:38] [Server thread/INFO]: uttn has just earned the achievement [DIAMONDS!]
-[02:46:38] [Server thread/INFO]: LarisaZip has just earned the achievement [Diamonds to you!]
-[02:46:56] [Server thread/INFO]: <uttn> yeahhhhhhhhhhhhhhhhhhhhhhhhhhhh
-[02:47:22] [Server thread/INFO]: <uttn> lets go to dansion tommorow
-[02:47:37] [Server thread/INFO]: <LarisaZip> ok
-[03:12:17] [Server thread/INFO]: <uttn> murabito 2nin dashiteii?
-[03:12:30] [Server thread/INFO]: <LarisaZip> hai
-[03:13:28] [Server thread/INFO]: <uttn> yabe 4nin kuraideta
-[03:41:50] [Server thread/INFO]: <uttn> sorosoro neyokana
-[03:41:56] [Server thread/INFO]: <uttn> ryo ha?
-[03:42:27] [Server thread/INFO]: <LarisaZip> mada yaritai
-[03:42:43] [Server thread/INFO]: <uttn> nara server online
-[03:44:05] [Server thread/INFO]: <LarisaZip> ok
-[03:44:21] [Server thread/INFO]: <uttn> otsu-
-[03:44:33] [Server thread/INFO]: <LarisaZip> otsu
-[03:44:37] [Server thread/INFO]: uttn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:44:37] [Server thread/INFO]: uttn left the game
-[06:20:21] [Server thread/WARN]: LarisaZip moved wrongly!
-[07:59:45] [Server thread/INFO]: LarisaZip lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[07:59:45] [Server thread/INFO]: LarisaZip left the game
-[10:18:53] [User Authenticator #5/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
-[10:18:54] [Server thread/INFO]: LarisaZip[/25.41.111.241:58564] logged in with entity id 2305421 at (481.72946292253, 45.0, -319.78789783849527)
-[10:18:54] [Server thread/INFO]: LarisaZip joined the game
-[10:28:33] [Server thread/INFO]: LarisaZip has just earned the achievement [Time to Strike!]
-[10:37:44] [Server thread/INFO]: LarisaZip has just earned the achievement [Monster Hunter]
-[12:32:13] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[12:32:13] [Server thread/INFO]: LarisaZip left the game
-[14:45:11] [Server thread/INFO]: Stopping server
-[14:45:12] [Server thread/INFO]: Saving players
-[14:45:12] [Server thread/INFO]: Saving worlds
-[14:45:12] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[14:45:12] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[14:45:12] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:06:17] [Server thread/INFO]: LarisaZip has just earned the achievement [Enchanter]
+[00:33:10] [Server thread/INFO]: LarisaZip lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: 既存の接続はリモート ホストに強制的に切断されました。], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:33:10] [Server thread/INFO]: LarisaZip left the game
+[00:36:27] [User Authenticator #5/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[00:36:28] [Server thread/INFO]: LarisaZip[/25.41.111.241:61601] logged in with entity id 553929 at (479.73308802620033, 45.0, -318.13453653402144)
+[00:36:28] [Server thread/INFO]: LarisaZip joined the game
+[00:42:35] [Server thread/INFO]: LarisaZip has just earned the achievement [Overkill]
+[01:25:24] [Server thread/INFO]: uttn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:25:24] [Server thread/INFO]: uttn left the game
+[03:12:10] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:12:10] [Server thread/INFO]: LarisaZip left the game
+[03:12:32] [User Authenticator #6/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[03:12:32] [Server thread/INFO]: LarisaZip[/25.41.111.241:49872] logged in with entity id 857052 at (328.62142147795777, 79.0080170954095, 636.1333630442092)
+[03:12:32] [Server thread/INFO]: LarisaZip joined the game
+[03:30:52] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:30:52] [Server thread/INFO]: LarisaZip left the game
+[04:54:40] [User Authenticator #7/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[04:54:41] [Server thread/INFO]: LarisaZip[/25.41.111.241:57515] logged in with entity id 895641 at (260.85666917883714, 64.0, -187.04237101968013)
+[04:54:41] [Server thread/INFO]: LarisaZip joined the game
+[04:57:18] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[04:57:18] [Server thread/INFO]: LarisaZip left the game
+[04:57:38] [User Authenticator #8/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[04:57:39] [Server thread/INFO]: LarisaZip[/25.41.111.241:57914] logged in with entity id 901338 at (246.1558501026045, 69.0, -146.66643267135328)
+[04:57:39] [Server thread/INFO]: LarisaZip joined the game
+[06:53:41] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[06:53:41] [Server thread/INFO]: LarisaZip left the game
+[12:03:40] [Server thread/INFO]: Stopping the server
+[12:03:40] [Server thread/INFO]: Stopping server
+[12:03:40] [Server thread/INFO]: Saving players
+[12:03:40] [Server thread/INFO]: Saving worlds
+[12:03:40] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:03:41] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[12:03:41] [Server thread/INFO]: Saving chunks for level 'world'/The End
