@@ -1,469 +1,472 @@
-[18:07:20] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
-[18:07:20] [main/INFO] [FML/]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
-[18:07:20] [main/INFO] [FML/]: Java is Java HotSpot(TM) Client VM, version 1.8.0_111, running on Windows 10:x86:10.0, installed at C:\Program Files (x86)\Java\jre1.8.0_111
-[18:07:20] [main/DEBUG] [FML/]: Java classpath at launch is minecraftforge.jar
-[18:07:20] [main/DEBUG] [FML/]: Java library path at launch is C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\User\AppData\Local\Programs\Python\Python35-32\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\atom\bin;C:\Program Files\Docker Toolbox;.
-[18:07:20] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
-[18:07:20] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
-[18:07:20] [main/DEBUG] [FML/]: Added access transformer class cpw.mods.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
-[18:07:20] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
-[18:07:20] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
-[18:07:20] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.transformers.ForgeAccessTransformer to enqueued access transformers
-[18:07:20] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
-[18:07:20] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
-[18:07:20] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\User\Desktop\micrabox\server\ChocolateQuest1.7.10\.
-[18:07:20] [main/DEBUG] [FML/]: Discovering coremods
-[18:07:20] [main/DEBUG] [FML/]: Examining for coremod candidacy chocolateQuest-1.7.10-1.0.jar
-[18:07:20] [main/DEBUG] [FML/]: Not found coremod data in chocolateQuest-1.7.10-1.0.jar
-[18:07:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:07:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[18:07:20] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:07:20] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:07:20] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:07:20] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
-[18:07:20] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
-[18:07:20] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
-[18:07:20] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
-[18:07:20] [main/DEBUG] [FML/]: Injection complete
-[18:07:20] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
-[18:07:20] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
-[18:07:21] [main/DEBUG] [FML/]: Read 527 binary patches
-[18:07:21] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[18:07:21] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
-[18:07:21] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:07:21] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
-[18:07:21] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
-[18:07:21] [main/DEBUG] [FML/]: Injection complete
-[18:07:21] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
-[18:07:21] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
-[18:07:21] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
-[18:07:21] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[18:07:21] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
-[18:07:21] [main/DEBUG] [FML/]: Loaded 89 rules from AccessTransformer config file forge_at.cfg
-[18:07:21] [main/DEBUG] [FML/]: Validating minecraft
-[18:07:21] [main/DEBUG] [FML/]: Minecraft validated, launching...
-[18:07:21] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
-[18:07:21] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
-[18:07:21] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[18:07:24] [main/WARN] [FML/]: =============================================================
-[18:07:24] [main/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
-[18:07:24] [main/WARN] [FML/]: Offendor: net/minecraft/server/gui/MinecraftServerGui$1.windowClosing(Ljava/awt/event/WindowEvent;)V
-[18:07:24] [main/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
-[18:07:24] [main/WARN] [FML/]: =============================================================
-[18:07:24] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
-[18:07:24] [Server thread/INFO] [FML/]: MinecraftForge v10.13.4.1614 Initialized
-[18:07:24] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
-[18:07:24] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
-[18:07:24] [Server thread/DEBUG] [FML/]: File C:\Users\User\Desktop\micrabox\server\ChocolateQuest1.7.10\config\injectedDependencies.json not found. No dependencies injected
-[18:07:24] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [cpw.mods.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
-[18:07:24] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
-[18:07:24] [Server thread/DEBUG] [FML/]: Minecraft is a file at C:\Users\User\Desktop\micrabox\server\ChocolateQuest1.7.10\minecraftforge.jar, loading
-[18:07:24] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
-[18:07:24] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
-[18:07:24] [Server thread/INFO] [FML/]: Searching C:\Users\User\Desktop\micrabox\server\ChocolateQuest1.7.10\mods for mods
-[18:07:24] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file chocolateQuest-1.7.10-1.0.jar
-[18:07:24] [Server thread/DEBUG] [FML/]: Examining file minecraftforge.jar for potential mods
-[18:07:24] [Server thread/DEBUG] [FML/]: The mod container minecraftforge.jar appears to be missing an mcmod.info file
-[18:07:24] [Server thread/DEBUG] [FML/]: Examining file chocolateQuest-1.7.10-1.0.jar for potential mods
-[18:07:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file chocolateQuest-1.7.10-1.0.jar
-[18:07:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.chocolate.chocolateQuest.ChocolateQuest) - loading
-[18:07:24] [Server thread/TRACE] [chocolateQuest/]: Parsed dependency info : [] [] []
-[18:07:25] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
-[18:07:25] [Server thread/TRACE] [FML/]: Received a system property request ''
-[18:07:25] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
-[18:07:25] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
-[18:07:25] [Server thread/DEBUG] [FML/]: Found translations in minecraftforge.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
-[18:07:25] [Server thread/DEBUG] [FML/]: Found translations in minecraftforge.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
-[18:07:25] [Server thread/DEBUG] [chocolateQuest/]: Enabling mod chocolateQuest
-[18:07:25] [Server thread/DEBUG] [FML/]: Found translations in chocolateQuest-1.7.10-1.0.jar [en_US, es_ES]
-[18:07:25] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
-[18:07:25] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
-[18:07:25] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
-[18:07:25] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
-[18:07:25] [Server thread/DEBUG] [FML/]: Mod sorting data
-[18:07:25] [Server thread/DEBUG] [FML/]: 	chocolateQuest(Chocolate Quest:1.0): chocolateQuest-1.7.10-1.0.jar ()
-[18:07:25] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
-[18:07:25] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
-[18:07:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
-[18:07:25] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
-[18:07:25] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
-[18:07:25] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
-[18:07:25] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (7.10.99.99)
-[18:07:25] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, chocolateQuest] at CLIENT
-[18:07:25] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, chocolateQuest] at SERVER
-[18:07:25] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
-[18:07:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.263s
-[18:07:25] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
-[18:07:25] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
-[18:07:25] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
-[18:07:25] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (10.13.4.1614)
-[18:07:25] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
-[18:07:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.007s
-[18:07:25] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLConstructionEvent to mod chocolateQuest
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Mod chocolateQuest is using network checker : Accepting version 1.0
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Testing mod chocolateQuest to verify it accepts its own version in a remote connection
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: The mod chocolateQuest accepts its own version (1.0)
-[18:07:25] [Server thread/DEBUG] [FML/chocolateQuest]: Attempting to inject @SidedProxy classes into chocolateQuest
-[18:07:25] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLConstructionEvent to mod chocolateQuest
-[18:07:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Chocolate Quest took 0.232s
-[18:07:25] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.503s
-[18:07:25] [Server thread/DEBUG] [FML/]: Mod signature data
-[18:07:25] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
-[18:07:25] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	7.10.99.99)	minecraftforge.jar
-[18:07:25] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) Forge	(Minecraft Forge	10.13.4.1614)	minecraftforge.jar
-[18:07:25] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
-[18:07:25] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.05)	minecraft.jar
-[18:07:25] [Server thread/DEBUG] [FML/]: 		chocolateQuest	(Chocolate Quest	1.0)	chocolateQuest-1.7.10-1.0.jar
-[18:07:25] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
-[18:07:25] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
-[18:07:25] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
-[18:07:25] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
-[18:07:25] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
-[18:07:25] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
-[18:07:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
-[18:07:25] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
-[18:07:25] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
-[18:07:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.000s
-[18:07:25] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
-[18:07:25] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
-[18:07:25] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
-[18:07:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.035s
-[18:07:25] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLPreInitializationEvent to mod chocolateQuest
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity dummy as chocolateQuest.dummy
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity mecha as chocolateQuest.mecha
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity mechaHeavy as chocolateQuest.mechaHeavy
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity armoredSkeleton as chocolateQuest.armoredSkeleton
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity necromancer as chocolateQuest.necromancer
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity armoredZombie as chocolateQuest.armoredZombie
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity Lich as chocolateQuest.Lich
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity specter as chocolateQuest.specter
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity pigzombie as chocolateQuest.pigzombie
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity minotaur as chocolateQuest.minotaur
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity specterBoss as chocolateQuest.specterBoss
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity abyssWalker as chocolateQuest.abyssWalker
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity abyssWalkerBoss as chocolateQuest.abyssWalkerBoss
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity gremlin as chocolateQuest.gremlin
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity pirate as chocolateQuest.pirate
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity pirateBoss as chocolateQuest.pirateBoss
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity spaceWarrior as chocolateQuest.spaceWarrior
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity monking as chocolateQuest.monking
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity bull as chocolateQuest.bull
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity slimeBoss as chocolateQuest.slimeBoss
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity spiderBoss as chocolateQuest.spiderBoss
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity greenDragon as chocolateQuest.greenDragon
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity giantZombie as chocolateQuest.giantZombie
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity turtleBoss as chocolateQuest.turtleBoss
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity TurtleBossPart as chocolateQuest.TurtleBossPart
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity CQ_npc as chocolateQuest.CQ_npc
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity EntityPart as chocolateQuest.EntityPart
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity EntityPartRidable as chocolateQuest.EntityPartRidable
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity EntityPartSlime as chocolateQuest.EntityPartSlime
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity SummonedBait as chocolateQuest.SummonedBait
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity SummonedUndead as chocolateQuest.SummonedUndead
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity Referee as chocolateQuest.Referee
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity ChocoProjectile as chocolateQuest.ChocoProjectile
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity Hookshoot as chocolateQuest.Hookshoot
-[18:07:25] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity Beam as chocolateQuest.Beam
-[18:07:25] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLPreInitializationEvent to mod chocolateQuest
-[18:07:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Chocolate Quest took 0.209s
-[18:07:25] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.245s
-[18:07:25] [Server thread/INFO] [FML/]: Applying holder lookups
-[18:07:25] [Server thread/INFO] [FML/]: Holder lookups applied
-[18:07:25] [Server thread/INFO] [FML/]: Injecting itemstacks
-[18:07:25] [Server thread/INFO] [FML/]: Itemstack injection complete
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.000s
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLInitializationEvent to mod chocolateQuest
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: ## Dungeon register ##
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: castlesRandomized.prop
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: castlesSchematic.prop
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: castlesSchematicSnow.prop
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: caveTests.prop
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: netherCity.prop
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: npcVillage.prop
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: ship.prop
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: test.prop
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLInitializationEvent to mod chocolateQuest
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Chocolate Quest took 0.044s
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.045s
-[18:07:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.005s
-[18:07:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
-[18:07:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
-[18:07:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod chocolateQuest
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event IMCEvent to mod chocolateQuest
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event IMCEvent to mod chocolateQuest
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Chocolate Quest took 0.000s
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.006s
-[18:07:26] [Server thread/INFO] [FML/]: Injecting itemstacks
-[18:07:26] [Server thread/INFO] [FML/]: Itemstack injection complete
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.070s
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLPostInitializationEvent to mod chocolateQuest
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: ## Chest items register ##
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:map to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:cookie to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:cocoa to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:clock to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_ingot to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:saddle to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:leather to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:name_tag to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gunpowder to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_horse_armor to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Error loading item: minecraft:gold_horse_armor,1,0,1 into default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:lead to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:wheat to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:torch to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:arrow to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:coal to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:emerald to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_ingot to default chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_apple to treasure chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_block to treasure chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:emerald to treasure chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:ender_pearl to treasure chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond to treasure chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:stone_sword to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_sword to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_boots to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_helmet to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_leggings to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_chestplate to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_leggings to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_boots to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_sword to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_helmet to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_chestplate to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_boots to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_leggings to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_leggings to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_sword to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_boots to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_helmet to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_chestplate to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_chestplate to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_helmet to weapon chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_ingot to ores chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_ingot to ores chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:stick to ores chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:flint to ores chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:coal to ores chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:emerald to ores chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:redstone to ores chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond to ores chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chicken to food chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:cookie to food chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:melon to food chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:beef to food chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:potato to food chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:carrot to food chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:poisonous_potato to food chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:bread to food chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:porkchop to food chests list
-[18:07:26] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:apple to food chests list
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLPostInitializationEvent to mod chocolateQuest
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Chocolate Quest took 0.039s
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.109s
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
-[18:07:26] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("Before", UNKNOWN, )
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
-[18:07:26] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
-[18:07:26] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.009s
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLLoadCompleteEvent to mod chocolateQuest
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLLoadCompleteEvent to mod chocolateQuest
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Chocolate Quest took 0.000s
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.010s
-[18:07:26] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
-[18:07:26] [Server thread/DEBUG] [FML/]: Registry consistency check successful
-[18:07:26] [Server thread/DEBUG] [FML/]: Registry consistency check successful
-[18:07:26] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 4 mods
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLServerAboutToStartEvent to mod chocolateQuest
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLServerAboutToStartEvent to mod chocolateQuest
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Chocolate Quest took 0.000s
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.001s
-[18:07:26] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
-[18:07:26] [Server thread/DEBUG] [FML/]: Registry consistency check successful
-[18:07:26] [Server thread/DEBUG] [FML/]: Registry consistency check successful
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[18:07:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[18:07:26] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
-[18:07:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLModIdMappingEvent to mod chocolateQuest
-[18:07:26] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLModIdMappingEvent to mod chocolateQuest
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Chocolate Quest took 0.000s
-[18:07:26] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
-[18:07:26] [Server thread/INFO] [FML/]: Applying holder lookups
-[18:07:26] [Server thread/INFO] [FML/]: Holder lookups applied
-[18:07:26] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
-[18:07:26] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
-[18:07:26] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
-[18:07:26] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@363843)
-[18:07:26] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@363843)
-[18:07:26] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@363843)
-[18:07:27] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
-[18:07:27] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
-[18:07:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
-[18:07:27] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
-[18:07:27] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
-[18:07:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.001s
-[18:07:27] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
-[18:07:27] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
-[18:07:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.003s
-[18:07:27] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLServerStartingEvent to mod chocolateQuest
-[18:07:27] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLServerStartingEvent to mod chocolateQuest
-[18:07:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Chocolate Quest took 0.007s
-[18:07:27] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.011s
-[18:07:27] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
-[18:07:27] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
-[18:07:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
-[18:07:27] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
-[18:07:27] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
-[18:07:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
-[18:07:27] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
-[18:07:27] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
-[18:07:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
-[18:07:27] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLServerStartedEvent to mod chocolateQuest
-[18:07:27] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLServerStartedEvent to mod chocolateQuest
-[18:07:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Chocolate Quest took 0.000s
-[18:07:27] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.001s
-[18:08:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:08:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:09:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:10:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:11:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:11:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:12:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:13:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:14:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:14:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:15:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:16:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:17:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:17:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:18:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:19:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:20:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:20:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:21:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:22:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:23:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:23:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:24:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:25:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:26:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:26:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:27:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:28:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:29:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:29:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:30:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:31:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:32:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:32:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:33:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:34:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:35:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:35:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:36:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:37:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:38:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:38:14] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
-[18:38:14] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
-[18:38:14] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
-[18:38:14] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.001s
-[18:38:14] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
-[18:38:14] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.001s
-[18:38:14] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLServerStoppingEvent to mod chocolateQuest
-[18:38:14] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLServerStoppingEvent to mod chocolateQuest
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Chocolate Quest took 0.000s
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.002s
-[18:38:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[18:38:14] [Server thread/INFO] [FML/]: Unloading dimension 0
-[18:38:14] [Server thread/INFO] [FML/]: Unloading dimension -1
-[18:38:14] [Server thread/INFO] [FML/]: Unloading dimension 1
-[18:38:14] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
-[18:38:14] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[18:38:14] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
-[18:38:14] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[18:38:14] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.001s
-[18:38:14] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
-[18:38:14] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
-[18:38:14] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLModIdMappingEvent to mod chocolateQuest
-[18:38:14] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLModIdMappingEvent to mod chocolateQuest
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Chocolate Quest took 0.001s
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.003s
-[18:38:14] [Server thread/INFO] [FML/]: Applying holder lookups
-[18:38:14] [Server thread/INFO] [FML/]: Holder lookups applied
-[18:38:14] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
-[18:38:14] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
-[18:38:14] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
-[18:38:14] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.001s
-[18:38:14] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
-[18:38:14] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.001s
-[18:38:14] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLServerStoppedEvent to mod chocolateQuest
-[18:38:14] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLServerStoppedEvent to mod chocolateQuest
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Chocolate Quest took 0.001s
-[18:38:14] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.002s
+[18:41:34] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[18:41:34] [main/INFO] [FML/]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[18:41:34] [main/INFO] [FML/]: Java is Java HotSpot(TM) Client VM, version 1.8.0_111, running on Windows 10:x86:10.0, installed at C:\Program Files (x86)\Java\jre1.8.0_111
+[18:41:34] [main/DEBUG] [FML/]: Java classpath at launch is minecraftforge.jar
+[18:41:34] [main/DEBUG] [FML/]: Java library path at launch is C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\User\AppData\Local\Programs\Python\Python35-32\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\atom\bin;C:\Program Files\Docker Toolbox;.
+[18:41:34] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[18:41:34] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[18:41:34] [main/DEBUG] [FML/]: Added access transformer class cpw.mods.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[18:41:34] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[18:41:34] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[18:41:34] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.transformers.ForgeAccessTransformer to enqueued access transformers
+[18:41:34] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[18:41:34] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[18:41:34] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\User\Desktop\micrabox\server\ChocolateQuest1.7.10\.
+[18:41:34] [main/DEBUG] [FML/]: Discovering coremods
+[18:41:34] [main/DEBUG] [FML/]: Examining for coremod candidacy chocolateQuest-1.7.10-1.0.jar
+[18:41:34] [main/DEBUG] [FML/]: Not found coremod data in chocolateQuest-1.7.10-1.0.jar
+[18:41:34] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:41:34] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:41:34] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:41:34] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:41:34] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:41:34] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+[18:41:34] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+[18:41:34] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+[18:41:34] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+[18:41:34] [main/DEBUG] [FML/]: Injection complete
+[18:41:34] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+[18:41:34] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[18:41:35] [main/DEBUG] [FML/]: Read 527 binary patches
+[18:41:35] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:41:35] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[18:41:35] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:41:35] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[18:41:35] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[18:41:35] [main/DEBUG] [FML/]: Injection complete
+[18:41:35] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[18:41:35] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[18:41:35] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[18:41:35] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:41:35] [main/DEBUG] [FML/]: Loaded 57 rules from AccessTransformer config file fml_at.cfg
+[18:41:35] [main/DEBUG] [FML/]: Loaded 89 rules from AccessTransformer config file forge_at.cfg
+[18:41:35] [main/DEBUG] [FML/]: Validating minecraft
+[18:41:36] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[18:41:36] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[18:41:36] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[18:41:36] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:41:38] [main/WARN] [FML/]: =============================================================
+[18:41:38] [main/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[18:41:38] [main/WARN] [FML/]: Offendor: net/minecraft/server/gui/MinecraftServerGui$1.windowClosing(Ljava/awt/event/WindowEvent;)V
+[18:41:38] [main/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[18:41:38] [main/WARN] [FML/]: =============================================================
+[18:41:38] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[18:41:38] [Server thread/INFO] [FML/]: MinecraftForge v10.13.4.1614 Initialized
+[18:41:38] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[18:41:38] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[18:41:38] [Server thread/DEBUG] [FML/]: File C:\Users\User\Desktop\micrabox\server\ChocolateQuest1.7.10\config\injectedDependencies.json not found. No dependencies injected
+[18:41:38] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [cpw.mods.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[18:41:38] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[18:41:38] [Server thread/DEBUG] [FML/]: Minecraft is a file at C:\Users\User\Desktop\micrabox\server\ChocolateQuest1.7.10\minecraftforge.jar, loading
+[18:41:38] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[18:41:38] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[18:41:38] [Server thread/INFO] [FML/]: Searching C:\Users\User\Desktop\micrabox\server\ChocolateQuest1.7.10\mods for mods
+[18:41:38] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file chocolateQuest-1.7.10-1.0.jar
+[18:41:38] [Server thread/DEBUG] [FML/]: Examining file minecraftforge.jar for potential mods
+[18:41:38] [Server thread/DEBUG] [FML/]: The mod container minecraftforge.jar appears to be missing an mcmod.info file
+[18:41:39] [Server thread/DEBUG] [FML/]: Examining file chocolateQuest-1.7.10-1.0.jar for potential mods
+[18:41:39] [Server thread/TRACE] [FML/]: Located mcmod.info file in file chocolateQuest-1.7.10-1.0.jar
+[18:41:39] [Server thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.chocolate.chocolateQuest.ChocolateQuest) - loading
+[18:41:39] [Server thread/TRACE] [chocolateQuest/]: Parsed dependency info : [] [] []
+[18:41:39] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
+[18:41:39] [Server thread/TRACE] [FML/]: Received a system property request ''
+[18:41:39] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[18:41:39] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[18:41:39] [Server thread/DEBUG] [FML/]: Found translations in minecraftforge.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[18:41:39] [Server thread/DEBUG] [FML/]: Found translations in minecraftforge.jar [en_US, en_US, es_ES, fr_FR, ru_RU, de_DE, af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, el_GR, fa_IR, fi_FI, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[18:41:39] [Server thread/DEBUG] [chocolateQuest/]: Enabling mod chocolateQuest
+[18:41:39] [Server thread/DEBUG] [FML/]: Found translations in chocolateQuest-1.7.10-1.0.jar [en_US, es_ES]
+[18:41:39] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[18:41:39] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[18:41:39] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[18:41:39] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[18:41:39] [Server thread/DEBUG] [FML/]: Mod sorting data
+[18:41:39] [Server thread/DEBUG] [FML/]: 	chocolateQuest(Chocolate Quest:1.0): chocolateQuest-1.7.10-1.0.jar ()
+[18:41:39] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[18:41:39] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[18:41:39] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
+[18:41:39] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[18:41:39] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[18:41:39] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[18:41:39] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (7.10.99.99)
+[18:41:39] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, chocolateQuest] at CLIENT
+[18:41:39] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, chocolateQuest] at SERVER
+[18:41:39] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[18:41:39] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.253s
+[18:41:39] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[18:41:39] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[18:41:39] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[18:41:39] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (10.13.4.1614)
+[18:41:39] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[18:41:39] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.007s
+[18:41:39] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLConstructionEvent to mod chocolateQuest
+[18:41:39] [Server thread/TRACE] [FML/chocolateQuest]: Mod chocolateQuest is using network checker : Accepting version 1.0
+[18:41:39] [Server thread/TRACE] [FML/chocolateQuest]: Testing mod chocolateQuest to verify it accepts its own version in a remote connection
+[18:41:39] [Server thread/TRACE] [FML/chocolateQuest]: The mod chocolateQuest accepts its own version (1.0)
+[18:41:39] [Server thread/DEBUG] [FML/chocolateQuest]: Attempting to inject @SidedProxy classes into chocolateQuest
+[18:41:39] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLConstructionEvent to mod chocolateQuest
+[18:41:39] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Chocolate Quest took 0.226s
+[18:41:39] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.487s
+[18:41:39] [Server thread/DEBUG] [FML/]: Mod signature data
+[18:41:39] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[18:41:39] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	7.10.99.99)	minecraftforge.jar
+[18:41:39] [Server thread/DEBUG] [FML/]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) Forge	(Minecraft Forge	10.13.4.1614)	minecraftforge.jar
+[18:41:39] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[18:41:39] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.05)	minecraft.jar
+[18:41:39] [Server thread/DEBUG] [FML/]: 		chocolateQuest	(Chocolate Quest	1.0)	chocolateQuest-1.7.10-1.0.jar
+[18:41:39] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[18:41:39] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[18:41:39] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[18:41:39] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[18:41:39] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[18:41:39] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[18:41:39] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.000s
+[18:41:39] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[18:41:39] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[18:41:39] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.000s
+[18:41:39] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[18:41:39] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[18:41:39] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[18:41:39] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.033s
+[18:41:39] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLPreInitializationEvent to mod chocolateQuest
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity dummy as chocolateQuest.dummy
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity mecha as chocolateQuest.mecha
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity mechaHeavy as chocolateQuest.mechaHeavy
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity armoredSkeleton as chocolateQuest.armoredSkeleton
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity necromancer as chocolateQuest.necromancer
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity armoredZombie as chocolateQuest.armoredZombie
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity Lich as chocolateQuest.Lich
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity specter as chocolateQuest.specter
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity pigzombie as chocolateQuest.pigzombie
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity minotaur as chocolateQuest.minotaur
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity specterBoss as chocolateQuest.specterBoss
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity abyssWalker as chocolateQuest.abyssWalker
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity abyssWalkerBoss as chocolateQuest.abyssWalkerBoss
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity gremlin as chocolateQuest.gremlin
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity pirate as chocolateQuest.pirate
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity pirateBoss as chocolateQuest.pirateBoss
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity spaceWarrior as chocolateQuest.spaceWarrior
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity monking as chocolateQuest.monking
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity bull as chocolateQuest.bull
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity slimeBoss as chocolateQuest.slimeBoss
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity spiderBoss as chocolateQuest.spiderBoss
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity greenDragon as chocolateQuest.greenDragon
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity giantZombie as chocolateQuest.giantZombie
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity turtleBoss as chocolateQuest.turtleBoss
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity TurtleBossPart as chocolateQuest.TurtleBossPart
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity CQ_npc as chocolateQuest.CQ_npc
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity EntityPart as chocolateQuest.EntityPart
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity EntityPartRidable as chocolateQuest.EntityPartRidable
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity EntityPartSlime as chocolateQuest.EntityPartSlime
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity SummonedBait as chocolateQuest.SummonedBait
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity SummonedUndead as chocolateQuest.SummonedUndead
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity Referee as chocolateQuest.Referee
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity ChocoProjectile as chocolateQuest.ChocoProjectile
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity Hookshoot as chocolateQuest.Hookshoot
+[18:41:40] [Server thread/TRACE] [FML/chocolateQuest]: Automatically registered mod chocolateQuest entity Beam as chocolateQuest.Beam
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLPreInitializationEvent to mod chocolateQuest
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Chocolate Quest took 0.210s
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.244s
+[18:41:40] [Server thread/INFO] [FML/]: Applying holder lookups
+[18:41:40] [Server thread/INFO] [FML/]: Holder lookups applied
+[18:41:40] [Server thread/INFO] [FML/]: Injecting itemstacks
+[18:41:40] [Server thread/INFO] [FML/]: Itemstack injection complete
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.000s
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLInitializationEvent to mod chocolateQuest
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: ## Dungeon register ##
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: castlesRandomized.prop
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: castlesSchematic.prop
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: castlesSchematicSnow.prop
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: caveTests.prop
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: netherCity.prop
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: npcVillage.prop
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: ship.prop
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Registered dungeon: test.prop
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLInitializationEvent to mod chocolateQuest
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Chocolate Quest took 0.087s
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.088s
+[18:41:40] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.004s
+[18:41:40] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[18:41:40] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[18:41:40] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod chocolateQuest
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event IMCEvent to mod chocolateQuest
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event IMCEvent to mod chocolateQuest
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Chocolate Quest took 0.000s
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.006s
+[18:41:40] [Server thread/INFO] [FML/]: Injecting itemstacks
+[18:41:40] [Server thread/INFO] [FML/]: Itemstack injection complete
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.069s
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLPostInitializationEvent to mod chocolateQuest
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: ## Chest items register ##
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:map to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:cookie to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:cocoa to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:clock to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_ingot to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:saddle to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:leather to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:name_tag to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gunpowder to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_horse_armor to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Error loading item: minecraft:gold_horse_armor,1,0,1 into default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:lead to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:wheat to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:torch to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:arrow to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:coal to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:emerald to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_ingot to default chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_apple to treasure chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_block to treasure chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:emerald to treasure chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:ender_pearl to treasure chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond to treasure chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:stone_sword to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_sword to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_boots to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_helmet to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_leggings to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_chestplate to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_leggings to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_boots to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_sword to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_helmet to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_chestplate to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_boots to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_leggings to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_leggings to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_sword to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_boots to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chainmail_helmet to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond_chestplate to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:golden_chestplate to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_helmet to weapon chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:gold_ingot to ores chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:iron_ingot to ores chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:stick to ores chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:flint to ores chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:coal to ores chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:emerald to ores chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:redstone to ores chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:diamond to ores chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:chicken to food chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:cookie to food chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:melon to food chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:beef to food chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:potato to food chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:carrot to food chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:poisonous_potato to food chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:bread to food chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:porkchop to food chests list
+[18:41:40] [Server thread/INFO] [FML/chocolateQuest]: Added minecraft:apple to food chests list
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLPostInitializationEvent to mod chocolateQuest
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Chocolate Quest took 0.029s
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.099s
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[18:41:40] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("Before", UNKNOWN, )
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[18:41:40] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[18:41:40] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.009s
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLLoadCompleteEvent to mod chocolateQuest
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLLoadCompleteEvent to mod chocolateQuest
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Chocolate Quest took 0.000s
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.010s
+[18:41:40] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[18:41:40] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[18:41:40] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[18:41:40] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 4 mods
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLServerAboutToStartEvent to mod chocolateQuest
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLServerAboutToStartEvent to mod chocolateQuest
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Chocolate Quest took 0.000s
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.001s
+[18:41:40] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[18:41:40] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[18:41:40] [Server thread/DEBUG] [FML/]: Registry consistency check successful
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[18:41:40] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[18:41:40] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[18:41:40] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLModIdMappingEvent to mod chocolateQuest
+[18:41:40] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLModIdMappingEvent to mod chocolateQuest
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Chocolate Quest took 0.000s
+[18:41:40] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
+[18:41:40] [Server thread/INFO] [FML/]: Applying holder lookups
+[18:41:40] [Server thread/INFO] [FML/]: Holder lookups applied
+[18:41:40] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[18:41:40] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[18:41:40] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[18:41:40] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@8844cb)
+[18:41:40] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@8844cb)
+[18:41:40] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@8844cb)
+[18:41:42] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[18:41:42] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[18:41:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.001s
+[18:41:42] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[18:41:42] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[18:41:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.001s
+[18:41:42] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[18:41:42] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[18:41:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.003s
+[18:41:42] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLServerStartingEvent to mod chocolateQuest
+[18:41:42] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLServerStartingEvent to mod chocolateQuest
+[18:41:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Chocolate Quest took 0.006s
+[18:41:42] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.011s
+[18:41:42] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[18:41:42] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[18:41:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[18:41:42] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[18:41:42] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[18:41:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[18:41:42] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[18:41:42] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[18:41:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[18:41:42] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLServerStartedEvent to mod chocolateQuest
+[18:41:42] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLServerStartedEvent to mod chocolateQuest
+[18:41:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Chocolate Quest took 0.000s
+[18:41:42] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.001s
+[18:42:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:43:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:43:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:44:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:45:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:46:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:46:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:47:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:48:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:49:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:49:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:50:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:51:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:52:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:52:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:53:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:54:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:55:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:55:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:56:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:57:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:58:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:58:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[18:59:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:00:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:01:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:01:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:02:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:03:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:04:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:04:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:05:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:06:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:07:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:07:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:08:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:09:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:10:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:10:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:11:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:12:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:13:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:13:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:14:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:14:49] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[19:14:49] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[19:14:49] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[19:14:49] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.001s
+[19:14:49] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[19:14:49] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[19:14:49] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLServerStoppingEvent to mod chocolateQuest
+[19:14:49] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLServerStoppingEvent to mod chocolateQuest
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Chocolate Quest took 0.000s
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.002s
+[19:14:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[19:14:49] [Server thread/INFO] [FML/]: Unloading dimension 0
+[19:14:49] [Server thread/INFO] [FML/]: Unloading dimension -1
+[19:14:49] [Server thread/INFO] [FML/]: Unloading dimension 1
+[19:14:49] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[19:14:49] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[19:14:49] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[19:14:49] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[19:14:49] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.001s
+[19:14:49] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[19:14:49] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[19:14:49] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLModIdMappingEvent to mod chocolateQuest
+[19:14:49] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLModIdMappingEvent to mod chocolateQuest
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Chocolate Quest took 0.001s
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.003s
+[19:14:49] [Server thread/INFO] [FML/]: Applying holder lookups
+[19:14:49] [Server thread/INFO] [FML/]: Holder lookups applied
+[19:14:49] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[19:14:49] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[19:14:49] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[19:14:49] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.001s
+[19:14:49] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[19:14:49] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[19:14:49] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sending event FMLServerStoppedEvent to mod chocolateQuest
+[19:14:49] [Server thread/TRACE] [chocolateQuest/chocolateQuest]: Sent event FMLServerStoppedEvent to mod chocolateQuest
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Chocolate Quest took 0.000s
+[19:14:49] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.002s

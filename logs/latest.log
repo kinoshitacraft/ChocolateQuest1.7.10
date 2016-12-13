@@ -1,16 +1,57 @@
-[19:15:33] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[19:15:35] [Server thread/INFO]: Loading properties
-[19:15:35] [Server thread/INFO]: Default game type: SURVIVAL
-[19:15:35] [Server thread/INFO]: Generating keypair
-[19:15:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:15:35] [Server thread/INFO]: Preparing level "world"
-[19:15:36] [Server thread/INFO]: Preparing start region for level 0
-[19:15:37] [Server thread/INFO]: Preparing spawn area: 85%
-[19:15:37] [Server thread/INFO]: Done (1.265s)! For help, type "help" or "?"
-[19:45:35] [Server thread/INFO]: Stopping the server
-[19:45:35] [Server thread/INFO]: Stopping server
-[19:45:35] [Server thread/INFO]: Saving players
-[19:45:35] [Server thread/INFO]: Saving worlds
-[19:45:35] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[19:45:35] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[19:45:35] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[19:46:49] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[19:46:51] [Server thread/INFO]: Loading properties
+[19:46:51] [Server thread/INFO]: Default game type: SURVIVAL
+[19:46:51] [Server thread/INFO]: Generating keypair
+[19:46:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:46:51] [Server thread/INFO]: Preparing level "world"
+[19:46:51] [Server thread/INFO]: Preparing start region for level 0
+[19:46:52] [Server thread/INFO]: Preparing spawn area: 83%
+[19:46:52] [Server thread/INFO]: Done (1.283s)! For help, type "help" or "?"
+[19:49:29] [User Authenticator #1/INFO]: UUID of player uttn is 205cb5fc-2971-48b7-8591-8460a85e7bae
+[19:49:29] [Server thread/INFO]: uttn[/25.43.44.26:61635] logged in with entity id 465 at (233.97782422622527, 68.0, -162.4936000686357)
+[19:49:29] [Server thread/INFO]: uttn joined the game
+[20:15:50] [User Authenticator #2/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[20:15:51] [Server thread/INFO]: LarisaZip[/25.41.111.241:50432] logged in with entity id 56987 at (254.6462881956287, 68.0, -156.66106887786407)
+[20:15:51] [Server thread/INFO]: LarisaZip joined the game
+[20:42:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3226ms behind, skipping 64 tick(s)
+[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.07840000152587834,0.002121563427493811 (7.846646304701917, 0.0784000015258789, 8.249479352976406)
+[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.15523200451660557,0.0 (3.7554586760624558, 0.37663049823865513, 10.842247494158668)
+[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (5.383676197632576, 0.44749789698341763, 11.813143908213558)
+[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (4.899145481038172, 0.5169479491049732, 10.749961266286366)
+[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (6.42443122015486, 0.5850090015087522, 11.72916343842946)
+[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (5.846232578828336, 0.6517088341626173, 10.673539036580362)
+[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (7.2862805039822565, 0.7170746714356033, 11.659619207392744)
+[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (6.6305154497141645, 0.7811331932098841, 10.61025378451308)
+[22:35:27] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.15523200451660557,0.0 (7.593246569288896, 0.15523200451660557, 7.451380139509516)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.1647732818260721,0.0 (7.382799754586835, 0.1647732818260721, 7.289598464057577)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (0.0, 0.08307781780646721, 12.463430155984275)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (0.0, 0.0030162615090425808, 11.341721768812155)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (1.9679743005160286, 0.0784000015258789, 12.264265561239073)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (1.790856665081766, 0.1552320045166016, 11.16048198237072)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (3.597653912707518, 0.230527368912964, 12.099337350824165)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (3.2738651549160704, 0.30431682745754424, 11.01039730656774)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (4.947191677350175, 0.37663049823865513, 11.962760291907324)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (4.501944556133925, 0.44749789698341763, 10.886112179371539)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (6.06474396466609, 0.5169479491049732, 11.849660822899276)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (5.5189171669003825, 0.5850090015087522, 10.783191659608063)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (6.990189067134734, 0.6517088341626173, 11.756003147215313)
+[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (6.3610722344176125, 0.7170746714356033, 10.697963172279387)
+[22:35:34] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.2328597766991578,0.0 (7.179367242871041, 0.30431682745754424, 8.421963596034242)
+[22:35:34] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.07840000152587834,0.0 (1.9679743005160286, 0.230527368912964, 9.899092074573678)
+[22:35:34] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (3.7588309655977916, 0.30431682745754424, 10.95147250164759)
+[22:35:34] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (3.4205362772732557, 0.0784000015258789, 9.965840263713103)
+[22:35:34] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.07840000152587834,0.0 (6.233132908672437, 0.0784000015258789, 8.865688551987953)
+[22:36:48] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.1040803780930446,0.0 (7.39154355515603, 0.1040803780930446, 7.327675850447761)
+[22:36:49] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.23052736891295922,0.0 (7.532506467401358, 0.230527368912964, 7.644908560148453)
+[22:36:50] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.15523200451660557,0.0 (7.376994417548081, 0.15523200451660557, 7.344159579136372)
+[22:39:22] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:39:22] [Server thread/INFO]: LarisaZip left the game
+[22:40:23] [Server thread/INFO]: uttn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:40:23] [Server thread/INFO]: uttn left the game
+[22:41:15] [Server thread/INFO]: Stopping the server
+[22:41:15] [Server thread/INFO]: Stopping server
+[22:41:15] [Server thread/INFO]: Saving players
+[22:41:15] [Server thread/INFO]: Saving worlds
+[22:41:15] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:41:15] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[22:41:15] [Server thread/INFO]: Saving chunks for level 'world'/The End
