@@ -1,57 +1,306 @@
-[19:46:49] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[19:46:51] [Server thread/INFO]: Loading properties
-[19:46:51] [Server thread/INFO]: Default game type: SURVIVAL
-[19:46:51] [Server thread/INFO]: Generating keypair
-[19:46:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:46:51] [Server thread/INFO]: Preparing level "world"
-[19:46:51] [Server thread/INFO]: Preparing start region for level 0
-[19:46:52] [Server thread/INFO]: Preparing spawn area: 83%
-[19:46:52] [Server thread/INFO]: Done (1.283s)! For help, type "help" or "?"
-[19:49:29] [User Authenticator #1/INFO]: UUID of player uttn is 205cb5fc-2971-48b7-8591-8460a85e7bae
-[19:49:29] [Server thread/INFO]: uttn[/25.43.44.26:61635] logged in with entity id 465 at (233.97782422622527, 68.0, -162.4936000686357)
-[19:49:29] [Server thread/INFO]: uttn joined the game
-[20:15:50] [User Authenticator #2/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
-[20:15:51] [Server thread/INFO]: LarisaZip[/25.41.111.241:50432] logged in with entity id 56987 at (254.6462881956287, 68.0, -156.66106887786407)
-[20:15:51] [Server thread/INFO]: LarisaZip joined the game
-[20:42:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3226ms behind, skipping 64 tick(s)
-[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.07840000152587834,0.002121563427493811 (7.846646304701917, 0.0784000015258789, 8.249479352976406)
-[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.15523200451660557,0.0 (3.7554586760624558, 0.37663049823865513, 10.842247494158668)
-[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (5.383676197632576, 0.44749789698341763, 11.813143908213558)
-[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (4.899145481038172, 0.5169479491049732, 10.749961266286366)
-[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (6.42443122015486, 0.5850090015087522, 11.72916343842946)
-[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (5.846232578828336, 0.6517088341626173, 10.673539036580362)
-[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (7.2862805039822565, 0.7170746714356033, 11.659619207392744)
-[22:35:11] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (6.6305154497141645, 0.7811331932098841, 10.61025378451308)
-[22:35:27] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.15523200451660557,0.0 (7.593246569288896, 0.15523200451660557, 7.451380139509516)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.1647732818260721,0.0 (7.382799754586835, 0.1647732818260721, 7.289598464057577)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (0.0, 0.08307781780646721, 12.463430155984275)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (0.0, 0.0030162615090425808, 11.341721768812155)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (1.9679743005160286, 0.0784000015258789, 12.264265561239073)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (1.790856665081766, 0.1552320045166016, 11.16048198237072)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (3.597653912707518, 0.230527368912964, 12.099337350824165)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (3.2738651549160704, 0.30431682745754424, 11.01039730656774)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (4.947191677350175, 0.37663049823865513, 11.962760291907324)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (4.501944556133925, 0.44749789698341763, 10.886112179371539)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (6.06474396466609, 0.5169479491049732, 11.849660822899276)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (5.5189171669003825, 0.5850090015087522, 10.783191659608063)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (6.990189067134734, 0.6517088341626173, 11.756003147215313)
-[22:35:33] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (6.3610722344176125, 0.7170746714356033, 10.697963172279387)
-[22:35:34] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.2328597766991578,0.0 (7.179367242871041, 0.30431682745754424, 8.421963596034242)
-[22:35:34] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.07840000152587834,0.0 (1.9679743005160286, 0.230527368912964, 9.899092074573678)
-[22:35:34] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (3.7588309655977916, 0.30431682745754424, 10.95147250164759)
-[22:35:34] [Server thread/WARN]: uttn moved too quickly! 0.0,0.0,0.0 (3.4205362772732557, 0.0784000015258789, 9.965840263713103)
-[22:35:34] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.07840000152587834,0.0 (6.233132908672437, 0.0784000015258789, 8.865688551987953)
-[22:36:48] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.1040803780930446,0.0 (7.39154355515603, 0.1040803780930446, 7.327675850447761)
-[22:36:49] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.23052736891295922,0.0 (7.532506467401358, 0.230527368912964, 7.644908560148453)
-[22:36:50] [Server thread/WARN]: uttn moved too quickly! 0.0,-0.15523200451660557,0.0 (7.376994417548081, 0.15523200451660557, 7.344159579136372)
-[22:39:22] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:39:22] [Server thread/INFO]: LarisaZip left the game
-[22:40:23] [Server thread/INFO]: uttn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:40:23] [Server thread/INFO]: uttn left the game
-[22:41:15] [Server thread/INFO]: Stopping the server
-[22:41:15] [Server thread/INFO]: Stopping server
-[22:41:15] [Server thread/INFO]: Saving players
-[22:41:15] [Server thread/INFO]: Saving worlds
-[22:41:15] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[22:41:15] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[22:41:15] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[00:15:33] [User Authenticator #10/INFO]: UUID of player uttn is 205cb5fc-2971-48b7-8591-8460a85e7bae
+[00:15:34] [Server thread/INFO]: uttn[/25.43.44.26:52124] logged in with entity id 318478 at (270.99762359830396, 69.0, -160.11170489584737)
+[00:15:34] [Server thread/INFO]: uttn joined the game
+[00:28:00] [Server thread/WARN]: uttn moved wrongly!
+[00:42:59] [Server thread/INFO]: uttn fell from a high place
+[00:54:51] [Server thread/WARN]: uttn moved wrongly!
+[01:12:25] [Server thread/INFO]: uttn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:12:25] [Server thread/INFO]: uttn left the game
+[02:52:05] [User Authenticator #11/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[02:52:06] [Server thread/INFO]: LarisaZip[/25.41.111.241:54426] logged in with entity id 410071 at (266.7937349392298, 70.0, -144.53683204435362)
+[02:52:06] [Server thread/INFO]: LarisaZip joined the game
+[05:16:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2075ms behind, skipping 41 tick(s)
+[05:17:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11716ms behind, skipping 234 tick(s)
+[05:17:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5263ms behind, skipping 105 tick(s)
+[05:17:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5846ms behind, skipping 116 tick(s)
+[05:17:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5227ms behind, skipping 104 tick(s)
+[05:18:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2109ms behind, skipping 42 tick(s)
+[05:18:30] [Server thread/WARN]: LarisaZip moved too quickly! -1.6005013964202135,-0.03692663495357351,0.4911071140045635 (8.410121149556728, 5.20884156154813, 2.5359808019898864)
+[05:18:30] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (12.994903392721417, 8.162118193778625, 3.8830915559293953)
+[05:18:30] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (15.91018643046302, 10.318481498955785, 4.738292033906121)
+[05:18:30] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (16.363573454651036, 11.140483840367235, 4.867851390277644)
+[05:18:31] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (19.604110737055343, 13.606203814789449, 5.819758680708188)
+[05:18:31] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (18.78239297769285, 13.809065884539038, 5.573983309651906)
+[05:18:31] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (17.091978102288355, 13.454484828709408, 5.072324957966765)
+[05:18:31] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (15.553700521337367, 13.106995387233273, 4.615815844776772)
+[05:18:31] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (14.153867882329033, 12.766455727958826, 4.2003925398014506)
+[05:18:31] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (12.880020144119378, 12.43272685537459, 3.8223573213789983)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (11.720818668940606, 12.105672553876664, 3.4783452627001985)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (10.665945296126655, 11.78515933217063, 3.1652942802804156)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (9.706010499200802, 11.471056368785414, 2.8804178780683243)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (8.832469808822985, 11.163235458676864, 2.62118034458414)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (8.037547757669655, 10.861570960899266, 2.385274182314758)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (7.314168670272465, 10.565939747323426, 2.1705995684627344)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,-0.07840000152587834,0.0 (6.65589368176965, 10.276221152380387, 1.9752456642273275)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (6.056863424968141, 9.992296923810263, 1.7974736062497472)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (5.511745875568573, 9.714051174396118, 1.6357010288278913)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (5.015688891318689, 9.441370334663139, 1.4884879791313477)
+[05:18:32] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (4.564277022641683, 9.174143106523845, 1.3545241000466772)
+[06:10:50] [Server thread/INFO]: LarisaZip has just earned the achievement [Librarian]
+[07:00:37] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[07:00:37] [Server thread/INFO]: LarisaZip left the game
+[07:18:51] [User Authenticator #12/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[07:18:51] [Server thread/INFO]: LarisaZip[/25.41.111.241:56261] logged in with entity id 1119555 at (237.6988486781381, 82.0, -128.48597937652175)
+[07:18:51] [Server thread/INFO]: LarisaZip joined the game
+[07:44:16] [Server thread/INFO]: LarisaZip lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[07:44:16] [Server thread/INFO]: LarisaZip left the game
+[07:51:14] [User Authenticator #13/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[07:51:15] [Server thread/INFO]: LarisaZip[/25.41.111.241:58395] logged in with entity id 1192057 at (237.05853519466677, 82.0, -128.68339438258002)
+[07:51:15] [Server thread/INFO]: LarisaZip joined the game
+[08:42:27] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[08:42:27] [Server thread/INFO]: LarisaZip left the game
+[09:15:23] [User Authenticator #14/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[09:15:24] [Server thread/INFO]: LarisaZip[/25.41.111.241:62471] logged in with entity id 1344885 at (238.07499998807893, 91.0, -117.00711228561943)
+[09:15:24] [Server thread/INFO]: LarisaZip joined the game
+[09:53:44] [Server thread/INFO]: LarisaZip lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: 既存の接続はリモート ホストに強制的に切断されました。], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[09:53:44] [Server thread/INFO]: LarisaZip left the game
+[09:56:58] [User Authenticator #15/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[09:56:59] [Server thread/INFO]: LarisaZip[/25.41.111.241:50075] logged in with entity id 1389073 at (480.58885595625725, 71.0, -450.91560546099595)
+[09:56:59] [Server thread/INFO]: LarisaZip joined the game
+[10:23:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2103ms behind, skipping 42 tick(s)
+[10:24:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3213ms behind, skipping 64 tick(s)
+[10:24:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3128ms behind, skipping 62 tick(s)
+[10:24:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2982ms behind, skipping 59 tick(s)
+[10:24:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4312ms behind, skipping 86 tick(s)
+[10:25:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3975ms behind, skipping 79 tick(s)
+[10:25:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5038ms behind, skipping 100 tick(s)
+[10:25:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5974ms behind, skipping 119 tick(s)
+[10:26:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4572ms behind, skipping 91 tick(s)
+[10:26:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5961ms behind, skipping 119 tick(s)
+[10:26:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5450ms behind, skipping 109 tick(s)
+[10:26:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6539ms behind, skipping 130 tick(s)
+[10:27:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7034ms behind, skipping 140 tick(s)
+[10:27:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7632ms behind, skipping 152 tick(s)
+[10:27:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8090ms behind, skipping 161 tick(s)
+[10:28:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6562ms behind, skipping 131 tick(s)
+[10:28:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10534ms behind, skipping 210 tick(s)
+[10:28:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7474ms behind, skipping 149 tick(s)
+[10:29:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8430ms behind, skipping 168 tick(s)
+[10:29:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8595ms behind, skipping 171 tick(s)
+[10:29:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9379ms behind, skipping 187 tick(s)
+[10:30:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9252ms behind, skipping 185 tick(s)
+[10:30:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9715ms behind, skipping 194 tick(s)
+[10:30:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9823ms behind, skipping 196 tick(s)
+[10:30:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10172ms behind, skipping 203 tick(s)
+[10:31:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10812ms behind, skipping 216 tick(s)
+[10:31:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11131ms behind, skipping 222 tick(s)
+[10:32:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13015ms behind, skipping 260 tick(s)
+[10:32:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7284ms behind, skipping 145 tick(s)
+[10:32:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13574ms behind, skipping 271 tick(s)
+[10:32:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7975ms behind, skipping 159 tick(s)
+[10:33:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14601ms behind, skipping 292 tick(s)
+[10:33:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7545ms behind, skipping 150 tick(s)
+[10:33:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8099ms behind, skipping 161 tick(s)
+[10:33:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2349ms behind, skipping 46 tick(s)
+[11:34:15] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:34:15] [Server thread/INFO]: LarisaZip left the game
+[17:51:19] [User Authenticator #16/INFO]: UUID of player uttn is 205cb5fc-2971-48b7-8591-8460a85e7bae
+[17:51:20] [Server thread/INFO]: uttn[/25.43.44.26:53669] logged in with entity id 1475682 at (468.44591666959195, 45.0, -325.7208501804934)
+[17:51:20] [Server thread/INFO]: uttn joined the game
+[18:32:34] [User Authenticator #17/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[18:32:35] [Server thread/INFO]: LarisaZip[/25.41.111.241:55607] logged in with entity id 1552719 at (237.85421534896895, 91.0, -117.07507636556934)
+[18:32:35] [Server thread/INFO]: LarisaZip joined the game
+[18:35:46] [Server thread/INFO]: <uttn> sleep
+[18:41:48] [Server thread/INFO]: <uttn> skype kaketa tunagaran
+[19:03:05] [Server thread/WARN]: LarisaZip was kicked for floating too long!
+[19:03:05] [Server thread/WARN]: LarisaZip was kicked for floating too long!
+[19:03:05] [Server thread/WARN]: LarisaZip was kicked for floating too long!
+[19:03:05] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:03:05] [Server thread/INFO]: LarisaZip left the game
+[19:03:20] [User Authenticator #18/INFO]: UUID of player LarisaZip is b11a5053-cc6e-4ca9-a0ff-9e9fea1a132d
+[19:03:21] [Server thread/INFO]: LarisaZip[/25.41.111.241:58126] logged in with entity id 1618712 at (454.07863581267765, 68.25530081494395, -288.023128679125)
+[19:03:21] [Server thread/INFO]: LarisaZip joined the game
+[19:03:39] [Server thread/WARN]: LarisaZip moved too quickly! 0.34910464191779056,0.8357459029159173,-0.0273004843028275 (0.524303124186651, 9.986436419965427, 0.15766232684351195)
+[19:03:39] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.808229225175997, 11.870008530421925, 0.18420380011565599)
+[19:03:39] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7354886161068123, 11.554208584690054, 0.16762546293618386)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8679626809956046, 12.54174502179273, 0.17697782280000066)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7898460624692274, 12.2125103590458, 0.16104982338942872)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7187599375615343, 11.889860383274154, 0.14655534350807983)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7865169093975249, 12.438343660826092, 0.1496577978571999)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7157304081789745, 12.111177023326269, 0.13618859997498386)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6513146902136437, 11.790553712336234, 0.12393162954892349)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5926963851758233, 11.476342861450595, 0.11277778613975671)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9366897681529781, 13.762457001476205, 0.151505082608735)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8523877135848769, 13.408808122418838, 0.13786962914732775)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7756728417169954, 13.062232214197302, 0.12546136613984318)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7058623063052956, 12.722587817529783, 0.11416984647761257)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6423347172497946, 12.389736302317413, 0.10389456328885081)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7831926305926603, 13.360562201003967, 0.11898270244951824)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.712705314379365, 13.014951210290508, 0.10827426234950716)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6485618547766628, 12.676252432799313, 0.09852958157765705)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5901913048559747, 12.344327624397774, 0.08966192181970903)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5370741028973199, 12.019041305833303, 0.08159235120741269)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.48873744772189004, 11.700260707435778, 0.07424904173859012)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5109737639277192, 11.820195844907051, 0.07571284564001583)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4649861385750447, 11.505392151935375, 0.06889869151806281)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4231373982980375, 11.196884526818728, 0.06269781108837726)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.385055043548434, 10.8945470483201, 0.057055009734738836)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.3504000997275453, 10.598256313624812, 0.05192006035493952)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.3188640999416746, 10.307891387972134, 0.04724725628465273)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.29016633930946767, 10.023333755294239, 0.0429950044581426)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6613874184804284, 12.338508049729027, 0.08800274944833988)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6018625681627652, 12.013338122546932, 0.08008250430595325)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5476949528125903, 11.694671587706354, 0.07287508101866472)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4984024214233289, 11.382378377484507, 0.06631632563820995)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.453546216566353, 11.076331025510576, 0.06034785806998591)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.41272706897010414, 10.776404614738734, 0.05491655242637274)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.3755816435869929, 10.482476726461686, 0.0499740641482431)
+[19:03:40] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.3417793055141842, 10.19442739034395, 0.04547639968552321)
+[19:03:41] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.3772418506645763, 10.344479165435569, 0.049529740617132376)
+[19:03:41] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.475735441364625, 10.923870037868472, 0.06136449668184002)
+[19:03:41] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4329192641184672, 10.62699284394151, 0.05584169358982239)
+[19:03:41] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.3939565417015647, 10.336053188230604, 0.05081594263124507)
+[19:03:41] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.35850046328034535, 10.050932320084682, 0.04624250912713415)
+[19:03:42] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.07113107996485724 (0.7230950315364517, 10.193366279306826, 0.07938566734478593)
+[19:03:42] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9259800512753168, 11.70966299532373, 0.037930033892643704)
+[19:03:42] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8426418709453316, 11.397069957235475, 0.034516331837060495)
+[19:03:42] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.04249840909494651,0.0 (0.8203968353820591, 11.450441543687923, 0.024547677782335183)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8537465631587265, 11.86245846917048, 0.0086140172364801)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7769093948648358, 11.546809524519631, 0.007838755911108483)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7069875697022603, 11.237473552741273, 0.0071332680846882745)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6969514176931885, 11.294037064239545, 0.0)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.031941632249029794,0.0 (0.6878185191017246, 11.349469306586714, 0.006862185094616693)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.625914870421328, 11.044080135403048, 0.006244588616069156)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5695825484986792, 10.744798741818219, 0.005682575804393786)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5183201340716949, 10.451502970396747, 0.005171144131029827)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4716713355987288, 10.164073108809532, 0.0047057412948557946)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5038856180807887, 10.235069180785388, 0.026831143899919238)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,-0.031941632249029794,0.0 (0.5121286363910887, 10.309802592590634, 0.031278526747217955)
+[19:03:43] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,-0.031941632249029794,0.0 (0.4660370725469988, 10.025206735856822, 0.028463460160280347)
+[19:03:44] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6068832911415563, 10.016833991790788, 0.10155377187753958)
+[19:03:44] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,-0.030257752484217804,0.0 (0.7130419430228981, 10.761968669326688, 0.12349830303608125)
+[19:03:44] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6488681868511065, 10.468329499682538, 0.11238345900170583)
+[19:03:44] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5904700670517523, 10.180563107830547, 0.10226895063892581)
+[19:03:44] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6981059086707226, 10.922423206168537, 0.12414911572769904)
+[19:03:44] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6352763951989137, 10.625574948847976, 0.11297569856814627)
+[19:03:44] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.578101536291798, 10.334663651011896, 0.1028078886599187)
+[19:03:44] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.794035966800076, 11.756022519986592, 0.14536246131704786)
+[19:03:44] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7225727506124912, 11.442502292289316, 0.1322798436107958)
+[19:03:44] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6575412220075915, 11.135252463166061, 0.12037466115500114)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7591406614395473, 11.858018792606595, 0.14062531277216878)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6908180218192442, 11.542458641402343, 0.12796903831071918)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6286444179729359, 11.233209687203344, 0.11645182821887605)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5720664368422277, 10.930145706189869, 0.10597116673324794)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6277658939747561, 11.315723777577276, 0.11715667648257112)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5712669799808439, 11.011009516330153, 0.10661257867169584)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5198529667646407, 10.71238953449601, 0.09701744938726936)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4730662133895096, 10.419741946602826, 0.08828588148679899)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7520465309269775, 12.180689640568993, 0.14250889039670964)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6843623628667547, 11.85867607855995, 0.12968309399845016)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.622769768156864, 11.543102781649168, 0.11801161893966414)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5667205053555334, 11.23384094465752, 0.10739057633007223)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,-0.01613123776647285,0.0 (0.6229010961816617, 11.6133451170681, 0.11844833925290672)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6204327245841883, 11.643968823988388, 0.11814944781463196)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5645937956431071, 11.33268966807382, 0.10751600060990767)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.513780368842289, 11.027636089340367, 0.0978395633747353)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.46754014912090935, 10.728683576363148, 0.08903400523695379)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.47905425868440066, 10.777000497223955, 0.09138240308869318)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4359393879665025, 10.48306069130857, 0.08315798920730968)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.3967048544824827, 10.194999675905034, 0.07567377235955687)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.45710411731804546, 10.19717838481914, 0.08773616648315535)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5231501801927434, 10.597415788653718, 0.10056282577675495)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.476066677695556, 10.307067673484429, 0.09151217409421207)
+[19:03:45] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4332206891883014, 10.022526515080576, 0.08327608082573526)
+[19:03:46] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.44782354924566375, 10.084966563698158, 0.08614269172347674)
+[19:03:46] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4611121522808387, 10.146157812534337, 0.08875130771560136)
+[19:03:46] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4732047813913554, 10.206125237560924, 0.09112514833684843)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.02295246046980992,0.012714950811314907,-0.0869085905387692 (0.7838883819378507, 10.026290348554282, 0.19971051692147887)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9887767454962645, 10.768687231048263, 0.1973863867969161)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8997868643333028, 10.474913690297827, 0.17962161716185768)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.0024316017241748, 10.867897281262204, 0.17388888376855727)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.912212783858814, 10.572139541399771, 0.15823888878980458)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8301136572352531, 10.282296950693455, 0.14399739294870217)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.1226545130207166, 11.360014539279135, 0.1519040462408057)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.0216156362916384, 11.054414463642756, 0.13823268606297534)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9296702558183273, 10.754926383690245, 0.12579174794260403)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9378127229677604, 10.801868892876048, 0.11968709764704075)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.0370351340787989, 11.188313386025035, 0.11934846943822852)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9437019992090357, 10.886147330178797, 0.10860711031882612)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8587688440297924, 10.590024589686125, 0.0988324732384666)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8732924363807302, 10.640265131606757, 0.09515415695924055)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9783216715924896, 11.029941696898783, 0.09702349276892835)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8902727468066725, 10.730943071814371, 0.08829138096426717)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8101482229424039, 10.4379244135287, 0.08034515899301674)
+[19:03:47] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7372349041245702, 10.150766122819855, 0.07311409679078089)
+[19:03:48] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.1299476110456625, 11.571555158705799, 0.09261684859836003)
+[19:03:48] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.0282523556856082, 11.261724274715704, 0.08428133465348114)
+[19:03:48] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9357096706408947, 10.958090002495855, 0.0766960167450338)
+[19:03:48] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8514958248231769, 10.660528409929038, 0.06979337724941385)
+[19:03:48] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7748612229204577, 10.36891804353802, 0.06351197512737077)
+[19:03:48] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7051237331791608, 10.083139878912798, 0.05779589903157523)
+[19:03:48] [Server thread/WARN]: LarisaZip moved too quickly! 0.07269891238075843,0.0,0.0 (0.7507135316325009, 10.010564763303448, 0.05481383675216852)
+[19:03:48] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7749620992653314, 10.072394490699415, 0.05509719660227462)
+[19:03:48] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7970282964471512, 10.13298762472677, 0.05535505407330257)
+[19:03:49] [Server thread/WARN]: LarisaZip moved too quickly! 0.010458970203671925,0.0,-0.11180720243845599 (0.7324827504050643, 9.973504728057037, 0.23911854745647243)
+[19:03:49] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8302560771955737, 10.716957321954157, 0.3288081834833906)
+[19:03:49] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9737953921780917, 11.78598171140511, 0.4474958542957128)
+[19:03:50] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.0498505875377049, 12.493184800205524, 0.5184315381720116)
+[19:03:50] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.1190608173095797, 13.186243840718758, 0.5829830123598058)
+[19:03:50] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.1820421282170963, 13.865441713640779, 0.6417248555636282)
+[19:03:50] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.239355122794687, 14.53105564205903, 0.6951799344196729)
+[19:03:50] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.2915099493633877, 15.183357304604495, 0.7438240575805887)
+[19:03:50] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.1752740877918793, 14.801290446586085, 0.6768799119058979)
+[19:03:50] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.1786306207912935, 15.107746584943785, 0.690100936937494)
+[19:03:50] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.0725538958308953, 14.727191939876429, 0.6279918707117368)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.194286413490748, 15.716011713458093, 0.7197530175199122)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.1413662526369353, 15.663732610673732, 0.6920453644950165)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.0386433198331324, 15.272058255696368, 0.629761299840077)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.0542966183655496, 15.569099046851045, 0.6472229987218622)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (1.0139755354016262, 15.519758194596688, 0.6260430454866156)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9227177638080466, 15.130963325194772, 0.5696991878114525)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9488043593424526, 15.430826012268309, 0.5925664752006222)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8634119918850164, 15.043809784816712, 0.5392355079732405)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7857049352592456, 14.664533874532399, 0.49070432639766287)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.9332538518476329, 15.654606808225836, 0.5948213485935958)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8492610296569022, 15.26311496912337, 0.5412874428199829)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7728275592605379, 14.879452959335838, 0.49257158716201255)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8669698543121395, 15.524786682180919, 0.5594504562625024)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7889425901612362, 15.135891243123227, 0.5090999298710494)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7179377777375678, 14.754773705429098, 0.4632809495343319)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.8170201516866948, 15.402601010974244, 0.5327959752531356)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7434883594620985, 15.016149283010181, 0.4848443514534839)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6765744266092678, 14.637426582234417, 0.44120837253821954)
+[19:03:51] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6156827459583042, 14.266278328250605, 0.40149963058092986)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7785336551247669, 15.264316365273556, 0.5136450730608825)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.7084656465813955, 14.880630327585935, 0.4674170299562812)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6447037569693209, 14.504618003333837, 0.42534950951871536)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.586680435750111, 14.136125918394914, 0.3870680648172658)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5338792119189077, 13.775003668126342, 0.35223194913497585)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5403956818866924, 13.761544689226824, 0.3576011826261009)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.6008912547672246, 14.088795722900132, 0.39955728491946085)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5468110575971747, 13.728620075638704, 0.3635971397555162)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4975980767541197, 13.375647934452697, 0.33087340671323423)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.45281426289627785, 13.029735229358002, 0.3010948087865436)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4120609911111395, 12.69074077176744, 0.2739962838922803)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4295410977568134, 12.698967030114426, 0.286406725203436)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.5000135803017576, 13.047469596702921, 0.33477032679768687)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.4550123711879774, 12.708120452103717, 0.30464100616559625)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.41406126971423374, 12.375558283923926, 0.27722332360022095)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.37679576629914163, 12.04964735276461, 0.25227323174667204)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.3428841572140811, 11.730254634012223, 0.22956864750560035)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.3120245920573087, 11.417249763542952, 0.20890747525077372)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.39307355703321534, 11.79138665101606, 0.2642460073082654)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.35769694720899026, 11.477159141372711, 0.24046387358064886)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.3255042313411569, 11.169216175928815, 0.2188221312648065)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.296208859057141, 10.867432063920251, 0.1991281451898127)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.2695500695103848, 10.571683628395784, 0.18120661734507298)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.24529057032368207, 10.281850155940852, 0.16489802653634908)
+[19:03:52] [Server thread/WARN]: LarisaZip moved too quickly! 0.0,0.0,0.0 (0.2232144254275519, 9.997813347406884, 0.15005720847270052)
+[19:09:30] [Server thread/INFO]: LarisaZip lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:09:30] [Server thread/INFO]: LarisaZip left the game
+[19:18:17] [Server thread/INFO]: uttn lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: 既存の接続はリモート ホストに強制的に切断されました。], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:18:17] [Server thread/INFO]: uttn left the game
+[19:18:56] [User Authenticator #19/INFO]: UUID of player uttn is 205cb5fc-2971-48b7-8591-8460a85e7bae
+[19:18:57] [Server thread/INFO]: uttn[/25.43.44.26:53959] logged in with entity id 1654415 at (480.38334192209345, 71.0, -450.7239605799012)
+[19:18:57] [Server thread/INFO]: uttn joined the game
+[21:27:47] [Server thread/WARN]: Time ran backwards! Did the system time change?
+[22:00:16] [Server thread/WARN]: uttn moved wrongly!
+[23:21:55] [Server thread/INFO]: uttn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:21:55] [Server thread/INFO]: uttn left the game
+[23:22:02] [Server thread/INFO]: Stopping the server
+[23:22:02] [Server thread/INFO]: Stopping server
+[23:22:02] [Server thread/INFO]: Saving players
+[23:22:02] [Server thread/INFO]: Saving worlds
+[23:22:02] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:22:02] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:22:02] [Server thread/INFO]: Saving chunks for level 'world'/The End
