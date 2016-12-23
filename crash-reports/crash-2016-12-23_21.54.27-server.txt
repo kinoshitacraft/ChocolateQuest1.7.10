@@ -1,0 +1,94 @@
+---- Minecraft Crash Report ----
+// You should try our sister game, Minceraft!
+
+Time: 16/12/23 21:54
+Description: Error loading dungeon from missing folder: C:\Users\User\Desktop\micrabox\server\ChocolateQuest1.7.10\config\Chocolate\snowCastles
+
+java.lang.NullPointerException: Error loading dungeon from missing folder: C:\Users\User\Desktop\micrabox\server\ChocolateQuest1.7.10\config\Chocolate\snowCastles
+	at com.chocolate.chocolateQuest.builder.BuilderHelper.getRandomNBTMap(BuilderHelper.java:498)
+	at com.chocolate.chocolateQuest.builder.BuilderTemplate.generate(BuilderTemplate.java:54)
+	at com.chocolate.chocolateQuest.WorldGeneratorNew.generateBigDungeon(WorldGeneratorNew.java:150)
+	at com.chocolate.chocolateQuest.WorldGeneratorNew.generateSurface(WorldGeneratorNew.java:100)
+	at com.chocolate.chocolateQuest.WorldGeneratorNew.generate(WorldGeneratorNew.java:62)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1050)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.SpawnerAnimals.func_151350_a(SpawnerAnimals.java:32)
+	at net.minecraft.world.SpawnerAnimals.func_77192_a(SpawnerAnimals.java:100)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:161)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:625)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at com.chocolate.chocolateQuest.builder.BuilderHelper.getRandomNBTMap(BuilderHelper.java:498)
+	at com.chocolate.chocolateQuest.builder.BuilderTemplate.generate(BuilderTemplate.java:54)
+	at com.chocolate.chocolateQuest.WorldGeneratorNew.generateBigDungeon(WorldGeneratorNew.java:150)
+	at com.chocolate.chocolateQuest.WorldGeneratorNew.generateSurface(WorldGeneratorNew.java:100)
+	at com.chocolate.chocolateQuest.WorldGeneratorNew.generate(WorldGeneratorNew.java:62)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1050)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73154_d(ChunkProviderServer.java:199)
+	at net.minecraft.world.World.func_72964_e(World.java:419)
+	at net.minecraft.world.SpawnerAnimals.func_151350_a(SpawnerAnimals.java:32)
+	at net.minecraft.world.SpawnerAnimals.func_77192_a(SpawnerAnimals.java:100)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:161)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 1 total; [EntityPlayerMP['uttn'/477, l='world', x=100.00, y=49.00, z=0.00]]
+	Chunk stats: ServerChunkCache: 159 Drop: 0
+	Level seed: 2135734977528627264
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (0,0,0), Chunk: (at 0,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 0 game time, 0 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:625)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_111, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 883072760 bytes (842 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 4 mods loaded, 4 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{7.10.99.99} [Forge Mod Loader] (minecraftforge.jar) 
+	UCHIJAAAA	Forge{10.13.4.1614} [Minecraft Forge] (minecraftforge.jar) 
+	UCHIJAAAA	chocolateQuest{1.0} [Chocolate Quest] (chocolateQuest-1.7.10-1.0.jar) 
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Player Count: 2 / 20; [EntityPlayerMP['uttn'/477, l='world', x=100.00, y=49.00, z=0.00], EntityPlayerMP['LarisaZip'/12659, l='world', x=-216.91, y=24.00, z=-947.31]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
